@@ -1,0 +1,12 @@
+
+Debug       true
+
+NodeCount   6
+StartIP     192.168.2.10
+HostBase    dave
+
+DatabaseIndexes 3 4
+MasterIndexes 0 3
+
+
+
